@@ -16,3 +16,20 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 ## Credits
 
 This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine), unless specified otherwise.
+
+## Programming Assignments
+
+### Course 1: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
+  
+  - **Week 1**
+    - Assignment: 
+      - [Chest X-Ray Medical Diagnosis with Deep Learning]()
+   
+  - **Week 2**
+    - Assignment: 
+      - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1W2_A1_Evaluation%20of%20Diagnostic%20Models.ipynb)  
+  - **Week 3**
+    - Assignment: 
+      - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1M3_A1_Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging.ipynb)
+  
+
