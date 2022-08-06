@@ -23,13 +23,13 @@ This repo contains my work for this specialization. The code base, quiz question
   
   - **Week 1**
     - Assignment: 
-      - [Chest X-Ray Medical Diagnosis with Deep Learning]()
+      - [1. Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/1.%20Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb)
    
   - **Week 2**
     - Assignment: 
-      - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1W2_A1_Evaluation%20of%20Diagnostic%20Models.ipynb)  
+      - [2. Evaluation of Diagnostic Models](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/2.%20Evaluation%20of%20Diagnostic%20Models.ipynb)  
   - **Week 3**
     - Assignment: 
-      - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1M3_A1_Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging.ipynb)
+      - [3. Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/3.%20Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20(MRI).ipynb)
   
 
