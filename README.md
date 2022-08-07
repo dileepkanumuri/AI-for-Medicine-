@@ -29,4 +29,21 @@ This repo contains my work for this specialization. The code base, quiz question
   - **Week 3**
       - [3. Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/3.%20Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20(MRI).ipynb)
   
-
+     ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
+  
+  - **Week 1**
+    - Assignment: 
+      - [Diagnosing Diseases using Linear Risk Models](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_A1_Build%20and%20Evaluate%20a%20Linear%20Risk%20model.ipynb)
+   
+  - **Week 2** 
+    - Assignment: 
+      - [Risk Models Using Machine Learning](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_A1_Risk%20Models%20Using%20Tree-based%20Models.ipynb)
+   
+  - **Week 3** 
+    - Assignment: 
+      - [Non-Parametric Estimators for Survival Analysis](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_A1_Survival%20Estimates%20that%20Varies%20with%20Time.ipynb)
+  
+  - **Week 4** 
+    - Assignment: 
+      - [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W4_A1_Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
+ 
