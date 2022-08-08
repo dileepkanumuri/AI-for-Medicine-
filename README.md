@@ -45,14 +45,11 @@ This repo contains my work for this specialization. The code base, quiz question
  
 ### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
-    - Assignment: 
-      - [Estimating Treatment Effect Using Machine Learning](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_A1_Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
+      - [Estimating Treatment Effect Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/1.%20Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
     
   - **Week 2** 
-    - Assignment: 
-      - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_A1_Natural%20Language%20Entity%20Extraction.ipynb)
+      - [Natural Language Entity Extraction](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/2.%20Natural%20Language%20Entity%20Extraction.ipynb)
   
   - **Week 3** 
-    - Assignment: 
-      - [ML Interpretation](https://nbviewer.jupyter.org/github/amanchadha/coursera-ai-for-medicine-specialization/blob/master/AI%20for%20Medical%20Treatment/Week%203/C3W3_A1_ML%20Interpretation.ipynb)
+      - [ML Interpretation](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/3.%20ML%20Interpretation.ipynb)
        
