@@ -52,4 +52,7 @@ This repo contains my work for this specialization. The code base, quiz question
   
   - **Week 3** 
       - [ML Interpretation](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/3.%20ML%20Interpretation.ipynb)
+
+
+[CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/KS7XCLG6SU7H)
        
