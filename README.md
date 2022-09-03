@@ -2,6 +2,9 @@
 
 Programming assignments, labs and quizzes from all courses in the Coursera [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) offered by `deeplearning.ai`.
 
+![image](https://user-images.githubusercontent.com/45831222/188260537-ce4b5f98-2e93-482d-b749-2c2cc95ffb44.png)
+
+
 **Instructors**: `Pranav Rajpurkar`, `Bora Uyumazturk`, `Amirhossein Kiani` and `Eddy Shyu`.
 
 ## Specialization Info
