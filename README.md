@@ -41,8 +41,7 @@ This repo contains my work for this specialization. The code base, quiz question
   - **Week 4**  - [Cox Proportional Hazards and Random Survival Forests](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/4.%20Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
  
 ### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
-  - **Week 1** 
-      - [Estimating Treatment Effect Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/1.%20Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
+  - **Week 1** - [Estimating Treatment Effect Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/1.%20Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
     
   - **Week 2** 
       - [Natural Language Entity Extraction](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/3.%20AI%20For%20Medical%20Treatment/2.%20Natural%20Language%20Entity%20Extraction.ipynb)
