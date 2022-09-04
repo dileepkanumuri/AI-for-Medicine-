@@ -38,8 +38,7 @@ This repo contains my work for this specialization. The code base, quiz question
    
   - **Week 3** - [Non-Parametric Estimators for Survival Analysis](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/3.%20Survival%20Estimates%20that%20Vary%20with%20Time.ipynb)
   
-  - **Week 4** 
-      - [Cox Proportional Hazards and Random Survival Forests](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/4.%20Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
+  - **Week 4**  - [Cox Proportional Hazards and Random Survival Forests](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/4.%20Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
  
 ### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
