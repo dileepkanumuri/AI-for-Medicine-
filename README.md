@@ -30,7 +30,7 @@ This repo contains my work for this specialization. The code base, quiz question
   - **Week 2** - [2. Evaluation of Diagnostic Models](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/2.%20Evaluation%20of%20Diagnostic%20Models.ipynb)  
   - **Week 3** - [3. Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/1.%20AI%20for%20Medical%20Diagnosis/3.%20Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20(MRI).ipynb)
   
-     ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
+ ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
   - **Week 1** - [Diagnosing Diseases using Linear Risk Models](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/1.%20Build%20and%20Evaluate%20a%20Linear%20Risk%20model.ipynb)
    
