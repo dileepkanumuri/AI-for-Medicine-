@@ -32,11 +32,9 @@ This repo contains my work for this specialization. The code base, quiz question
   
      ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
-  - **Week 1**
-      - [Diagnosing Diseases using Linear Risk Models](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/1.%20Build%20and%20Evaluate%20a%20Linear%20Risk%20model.ipynb)
+  - **Week 1** - [Diagnosing Diseases using Linear Risk Models](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/1.%20Build%20and%20Evaluate%20a%20Linear%20Risk%20model.ipynb)
    
-  - **Week 2** 
-      - [Risk Models Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/2.%20Risk%20Models%20Using%20Tree-based%20Models.ipynb)
+  - **Week 2**  - [Risk Models Using Machine Learning](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/2.%20Risk%20Models%20Using%20Tree-based%20Models.ipynb)
    
   - **Week 3** 
       - [Non-Parametric Estimators for Survival Analysis](https://github.com/dileepkanumuri/AI-for-Medicine-/blob/main/2.%20%20AI%20for%20Medical%20Prognosis/3.%20Survival%20Estimates%20that%20Vary%20with%20Time.ipynb)
